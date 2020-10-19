@@ -10,6 +10,7 @@
 		5303478B253D0BB30043A48E /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5303478A253D0BB30043A48E /* LoginViewController.swift */; };
 		53034790253D0BC20043A48E /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5303478F253D0BC20043A48E /* FeedViewController.swift */; };
 		53034795253D18C70043A48E /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53034794253D18C70043A48E /* CameraViewController.swift */; };
+		537F1DFE253D27100078D65A /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 537F1DFD253D27100078D65A /* PostCell.swift */; };
 		537FEAA9253D032300F350E2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 537FEAA8253D032300F350E2 /* AppDelegate.swift */; };
 		537FEAAB253D032300F350E2 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 537FEAAA253D032300F350E2 /* SceneDelegate.swift */; };
 		537FEAB0253D032300F350E2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 537FEAAE253D032300F350E2 /* Main.storyboard */; };
@@ -46,6 +47,7 @@
 		5303478A253D0BB30043A48E /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		5303478F253D0BC20043A48E /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
 		53034794253D18C70043A48E /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
+		537F1DFD253D27100078D65A /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
 		537FEAA5253D032200F350E2 /* gram.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = gram.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		537FEAA8253D032300F350E2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		537FEAAA253D032300F350E2 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -152,6 +154,7 @@
 				5303478A253D0BB30043A48E /* LoginViewController.swift */,
 				5303478F253D0BC20043A48E /* FeedViewController.swift */,
 				53034794253D18C70043A48E /* CameraViewController.swift */,
+				537F1DFD253D27100078D65A /* PostCell.swift */,
 			);
 			path = gram;
 			sourceTree = "<group>";
@@ -417,6 +420,7 @@
 				537FEAA9253D032300F350E2 /* AppDelegate.swift in Sources */,
 				53034790253D0BC20043A48E /* FeedViewController.swift in Sources */,
 				537FEAAB253D032300F350E2 /* SceneDelegate.swift in Sources */,
+				537F1DFE253D27100078D65A /* PostCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
