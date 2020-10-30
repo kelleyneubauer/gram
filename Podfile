@@ -8,6 +8,7 @@ target 'gram' do
   # Pods for gram
   pod 'Parse'
   pod 'AlamofireImage'
+  pod 'MessageInputBar'
 
 
   target 'gramTests' do
