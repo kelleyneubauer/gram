@@ -18,6 +18,7 @@
 		537FEAB5253D032500F350E2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 537FEAB3253D032500F350E2 /* LaunchScreen.storyboard */; };
 		537FEAC0253D032500F350E2 /* gramTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 537FEABF253D032500F350E2 /* gramTests.swift */; };
 		537FEACB253D032500F350E2 /* gramUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 537FEACA253D032500F350E2 /* gramUITests.swift */; };
+		539C5953254BC781009FD510 /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 539C5952254BC781009FD510 /* CommentCell.swift */; };
 		839FE136CCD62E20651C456A /* Pods_gramTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 225A1E16961FF88DB2CDD29E /* Pods_gramTests.framework */; };
 		B0A5D3A2285B38E32CB3197F /* Pods_gram.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 60C4F5FFDB944954B0710602 /* Pods_gram.framework */; };
 		ED07425391520D46572134EA /* Pods_gram_gramUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1FE45B171ACE14C697A54316 /* Pods_gram_gramUITests.framework */; };
@@ -61,6 +62,7 @@
 		537FEAC6253D032500F350E2 /* gramUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = gramUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		537FEACA253D032500F350E2 /* gramUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gramUITests.swift; sourceTree = "<group>"; };
 		537FEACC253D032500F350E2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		539C5952254BC781009FD510 /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		60C4F5FFDB944954B0710602 /* Pods_gram.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_gram.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		854D11697CD99D06D4FDB245 /* Pods-gram.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-gram.release.xcconfig"; path = "Target Support Files/Pods-gram/Pods-gram.release.xcconfig"; sourceTree = "<group>"; };
 		A5A101422545E7551CAA7C74 /* Pods-gram.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-gram.debug.xcconfig"; path = "Target Support Files/Pods-gram/Pods-gram.debug.xcconfig"; sourceTree = "<group>"; };
@@ -155,6 +157,7 @@
 				5303478F253D0BC20043A48E /* FeedViewController.swift */,
 				53034794253D18C70043A48E /* CameraViewController.swift */,
 				537F1DFD253D27100078D65A /* PostCell.swift */,
+				539C5952254BC781009FD510 /* CommentCell.swift */,
 			);
 			path = gram;
 			sourceTree = "<group>";
@@ -421,6 +424,7 @@
 				53034790253D0BC20043A48E /* FeedViewController.swift in Sources */,
 				537FEAAB253D032300F350E2 /* SceneDelegate.swift in Sources */,
 				537F1DFE253D27100078D65A /* PostCell.swift in Sources */,
+				539C5953254BC781009FD510 /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
