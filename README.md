@@ -18,7 +18,7 @@
 ### Log in/ log out
 <img src="gram_login.gif" width=250><br>
 
-### Add a photo & comment
+### Post photo with caption. Add a comment
 <img src="gram_post.gif" width=250><br>
 
 ## What's next
