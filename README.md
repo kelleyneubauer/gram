@@ -16,11 +16,10 @@
 - [x] Add comments
 
 ### Log in/ log out
+<img src="gram_login.gif" width=250><br>
 
-### Add a photo
-
-### Add a comment
-
+### Add a photo & comment
+<img src="gram_post.gif" width=250><br>
 
 ## What's next
 - [ ] Pull to refresh
