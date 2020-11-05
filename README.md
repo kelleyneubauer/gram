@@ -1,7 +1,5 @@
 # GRAM
 
----
-
 • Instagram-like client with Parse backend that allows users to post photos with captions, view a feed, and leave comments.
 
 ---
