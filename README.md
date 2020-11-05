@@ -26,3 +26,6 @@
 - [ ] Load posts infinitely
 - [ ] Add a profile picture
 - [ ] Display profile pictures in posts and comments
+- [ ] Improve login credential UI
+- [ ] Modify new post display speed
+- [ ] General UI improvements
